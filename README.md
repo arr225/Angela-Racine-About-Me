@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Angela Racine, an Aspiring Data Scientist
+# Hi there 👋, I'm Angela Racine, QA Specialist and Aspiring Data Scientist
 
 ## Current Role
 
