@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Angela Racine, QA Specialist and Aspiring Data Scientist
+# Hi there 👋, I'm Angela Racine!
 
 ## Current Role
 
-Quality Assurance specialist and Aspiring Data Scientist with a strong background in **data analysis**, **process optimization**, and **machine learning**. Recently completed a **Data Science Certification** at TripleTen, focusing on leveraging data-driven insights to solve complex business challenges.
+Quality Assurance specialist and Aspiring Data Scientist with a strong background in **data analysis**, **process optimization**, and **machine learning**.
 
 ## About Me
 
