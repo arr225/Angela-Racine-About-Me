@@ -20,4 +20,4 @@ With hands-on experience in **Python**, **SQL**, and **machine learning**, I hav
    Created a computer vision model to verify customer ages in real-time, ensuring compliance with alcohol laws.
 
 ## Let's Connect
-Feel free to reach out to me at [a.racine2255@gmail.com] or check out more of my projects [here](https://github.com/arr225).
+Feel free to reach out to me at a.racine2255@gmail.com or check out more of my projects [here](https://github.com/arr225).
