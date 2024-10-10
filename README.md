@@ -22,5 +22,25 @@ I recently completed a 10 month Data Science program with Triple Ten and I'm eag
 - **[Good Seed Supermarket – Age Verification Using Computer Vision](link to project)**  
    Created a computer vision model to verify customer ages in real-time, ensuring compliance with alcohol laws.
 
+## Skills
+
+- **Coding**: Proficient in Python for data analysis, machine learning, and automation tasks.
+- **Mathematics**: Solid foundation in statistics, probability, and linear algebra, applied in data science models and algorithms.
+- **Analysis and Data Processing**: Experienced in data wrangling, cleaning, and processing using tools such as `pandas`, `numpy`, and `scipy`.
+- **Machine Learning**: Skilled in building, evaluating, and fine-tuning machine learning models using libraries such as `scikit-learn`, `CatBoost`, `LightGBM`, and `XGBoost`.
+- **Business**: Experience applying data-driven insights to optimize operations, workforce analytics, and customer success strategies.
+- **Soft Skills**: Strong collaboration, communication, and problem-solving abilities, developed through experience in quality assurance and customer success.
+
+## Tools
+
+- **Python**  
+- `Numpy`, `pandas`, `scipy`, `matplotlib`  
+- **Jupyter Notebook**  
+- **scikit-learn**  
+- **CatBoost**, **LightGBM**, **XGBoost**  
+- **PySpark**  
+- **Keras**  
+- `pymystem`, `nltk`
+
 ## Let's Connect
 Feel free to reach out to me at a.racine2255@gmail.com or check out more of my projects [here](https://github.com/arr225).
